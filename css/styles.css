@@ -109,6 +109,7 @@ h2.active::after {
   .container {
     flex-direction: row;
     width: min(90vw, 750px);
+    margin: 5rem auto;
   }
 
   img {
